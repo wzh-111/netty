@@ -1,4 +1,4 @@
-package Demo02AIO.Server;
+package Demo02AIOTimeServer.Server;
 
 public class TimeServer {
     public static void main(String[] args) {

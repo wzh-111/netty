@@ -1,4 +1,4 @@
-package Demo01TimeServer.Client;
+package Demo01NIOTimeServer.Client;
 
 public class TimeClient {
     public static void main(String[] args) {

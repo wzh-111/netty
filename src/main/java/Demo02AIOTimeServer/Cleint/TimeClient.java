@@ -1,4 +1,4 @@
-package Demo02AIO.Cleint;
+package Demo02AIOTimeServer.Cleint;
 
 public class TimeClient {
     public static void main(String[] args) {

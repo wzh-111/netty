@@ -1,4 +1,4 @@
-package Demo01TimeServer.Client;
+package Demo01NIOTimeServer.Client;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;
