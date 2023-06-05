@@ -1,4 +1,4 @@
-package Demo04TCPPackeage.ExceptionPackeage.Client;
+package Demo04TCPPackage.ExceptionPackage.Client;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.buffer.Unpooled;

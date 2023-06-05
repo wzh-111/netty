@@ -1,4 +1,4 @@
-package Demo04TCPPackeage.CorrectPackeage.Client;
+package Demo04TCPPackage.CorrectPackage.Client;
 
 import io.netty.bootstrap.Bootstrap;
 import io.netty.channel.ChannelFuture;

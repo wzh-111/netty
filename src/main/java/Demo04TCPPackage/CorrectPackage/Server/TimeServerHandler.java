@@ -1,4 +1,4 @@
-package Demo04TCPPackeage.CorrectPackeage.Server;
+package Demo04TCPPackage.CorrectPackage.Server;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.buffer.Unpooled;
